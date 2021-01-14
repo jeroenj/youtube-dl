@@ -1449,7 +1449,7 @@ from .vidme import (
     VidmeUserIE,
     VidmeUserLikesIE,
 )
-from .vier import VierIE, VierVideosIE
+from .vier import VierIE, VierVideosIE, VierVijfKijkOnlineIE
 from .viewlift import (
     ViewLiftIE,
     ViewLiftEmbedIE,
