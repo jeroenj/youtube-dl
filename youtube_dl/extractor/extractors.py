@@ -450,6 +450,7 @@ from .globo import (
 from .go import GoIE
 from .godtube import GodTubeIE
 from .golem import GolemIE
+from .goplay import GoPlayIE
 from .googledrive import GoogleDriveIE
 from .googlepodcasts import (
     GooglePodcastsIE,
@@ -1449,7 +1450,6 @@ from .vidme import (
     VidmeUserIE,
     VidmeUserLikesIE,
 )
-from .vier import VierIE, VierVideosIE, VierVijfKijkOnlineIE
 from .viewlift import (
     ViewLiftIE,
     ViewLiftEmbedIE,
